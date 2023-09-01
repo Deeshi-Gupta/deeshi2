@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Review Ticket
-description: Example Review Ticket!!! This will help us communicate results.
+description: Review Ticket
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
