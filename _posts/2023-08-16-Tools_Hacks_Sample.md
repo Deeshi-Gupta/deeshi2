@@ -11,5 +11,7 @@ type: hacks
 ## Hacks
 > Complete the procedure below accurately.  These are absolutely required and must be 100% accurate for your success.
 
-### GitHub Account
-- Created a account with my personal email (deeshigupta@gmail.com), and put the verification code, created the teacher repository using --> [github.com/nighthawkcoders/teacher].
+### Helpful links and Self Motivation (bc im in desparate need of it.)
+- Absolutely slayed the first two days without losing my mind!! Go me!
+
+- Github Link: 

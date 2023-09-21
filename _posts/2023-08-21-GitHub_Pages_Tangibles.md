@@ -9,4 +9,4 @@ courses: { compsci: {week: 0} }
 ---
 
 ### Summary of Accomplishments
-> Update Blog to Contain All Hacks
+> Updated bundle, ruby, and 
