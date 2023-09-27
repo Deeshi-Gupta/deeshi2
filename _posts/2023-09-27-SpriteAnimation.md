@@ -1,14 +1,12 @@
 ---
-toc: false
-comments: false
-layout: post
 title: Sprite Animation
-description: Dog Sprite Animation.
-type: hacks
-courses: { compsci: {week: 6} }
+comments: true
+hide: true
+layout: default
+type: Hack
+description: A Working Sprite Animation
+courses: { compsci: {week: 5} }
 ---
-
-%%html
 
 <body>
     <div>
@@ -46,7 +44,7 @@ courses: { compsci: {week: 6} }
                 this.y = 0;
                 this.minFrame = 0;
                 this.maxFrame = FRAME_LIMIT;
-                   this.frameX = 0;
+                this.frameX = 0;
                 this.frameY = 0;
             }
 
