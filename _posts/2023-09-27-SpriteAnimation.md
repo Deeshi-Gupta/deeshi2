@@ -1,17 +1,17 @@
 ---
-title: Sprite Animation
-comments: true
-hide: true
-layout: default
-type: Hack
-description: A Working Sprite Animation
+toc: false
+comments: false
+layout: post
+title: Animation
+description: Classic Snake Game using actions from user.
+type: hacks
 courses: { compsci: {week: 5} }
 ---
 
 <body>
     <div>
         <canvas id="spriteContainer"> <!-- Within the base div is a canvas. An HTML canvas is used only for graphics. It allows the user to access some basic functions related to the image created on the canvas (including animation) -->
-            <img id="dogSprite" src="/teacher/images/dogSprites.png">  // change sprite here
+            <img id="dogSprite" src="{{site.baseurl}}/images/dogSprites.png">  // change sprite here
         </canvas>
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
             <input type="radio" name="animation" id="idle" checked>
